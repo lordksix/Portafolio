@@ -62,16 +62,25 @@ There is no live demo available.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project there are no prerequisites.
+In order to run this project you need:
+To clone or fork and run it in a browser
 
 ### Setup
 
-Clone this repository to your desired folder.
+Clone this repository to your desired folder:
+
+```sh
+  cd my-desired-folder
+  git clone git@github.com:lordksix/Portafolio.git
+```
+
+For more information on how to clone or a repository:
+- <a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">How to clone a repo</a>
+- <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">How to fork a repo</a>
 
 ### Install
 
@@ -80,6 +89,13 @@ There is no installation required.
 ### Usage
 
 To run the project, open with **index.html** with any web browser.
+
+For example, for Google Chrome with Ubuntu:
+
+```sh
+  cd Portafolio
+  google-chrome index.html
+```
 
 ### Run tests
 
